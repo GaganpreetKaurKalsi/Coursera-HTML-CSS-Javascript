@@ -2,7 +2,7 @@
 This repository contains my solutions to the module assignments of course - HTML, CSS, and Javascript for Web Developers from Coursera
 <hr>
 
-Link to assignments :- https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
+<b>Link to assignments</b> :- https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments
 
 <b>Link to Module2-solution</b> :- https://gaganpreetkaurkalsi.github.io/Coursera-HTML-CSS-Javascript/mod2-solution/
 
